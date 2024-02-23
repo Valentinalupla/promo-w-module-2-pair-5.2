@@ -11,7 +11,8 @@ body {
     height: 100px;
     position: relative;
     width: 100px;
-    border: 1px solid black;
+    border-radius: 50%;
+   
   }
   .face {
     font-family: 'courier new', serif;
